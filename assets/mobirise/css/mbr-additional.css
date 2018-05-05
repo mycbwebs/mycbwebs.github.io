@@ -1834,7 +1834,15 @@ body {
   }
 }
 .cid-qOYs2R8gYc .copyright > p {
+  color: #767676;
+}
+.cid-qOYs2R8gYc H5 {
   color: #c1c1c1;
+  text-align: right;
+}
+.cid-qOYs2R8gYc P {
+  color: #c1c1c1;
+  text-align: right;
 }
 .cid-qQc48DVnWV .navbar {
   padding: .5rem 0;
