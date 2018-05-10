@@ -1373,7 +1373,7 @@ body {
 }
 .cid-qRbd3z1dbb {
   padding-top: 120px;
-  padding-bottom: 105px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
 .cid-qRbd3z1dbb H2 {
@@ -1625,6 +1625,14 @@ body {
 }
 .cid-qQQrzwEbxb P {
   text-align: left;
+}
+.cid-qRBMbZEOPo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-qRBMbZEOPo .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qQbTMK0l0w {
   padding-top: 90px;
